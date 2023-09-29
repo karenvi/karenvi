@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi! ✨
+🌱 My name is Karen, and I am currently working on my master thesis in informatics.
 
 <!--
 **karenvi/karenvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
