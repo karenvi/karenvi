@@ -1,5 +1,6 @@
 ## Hi! ✨
-🌱 My name is Karen, and I am currently working on my master thesis in informatics.
+👩‍💻 My name is Karen
+🌱 I am currently working on my master thesis in informatics at NTNU in Trondheim.
 
 <!--
 **karenvi/karenvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
